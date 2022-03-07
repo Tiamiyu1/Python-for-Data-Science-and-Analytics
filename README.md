@@ -3,6 +3,9 @@ This is a repository for the python for  Science and Analytics class (Beginner t
 
 ## Outline
 - Introduction to Data Science and Analytics
+  - Tools
+  - Applications
+  - Data science
 - Python Fundamentals
   -  Data type
 
