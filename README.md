@@ -2,7 +2,7 @@
 This is a repository for the python for  Science and Analytics class (Beginner to Intermediate) 
 
 ## Outline
-
+- Introduction to Dat
 - Python Fundamentals
   -  Data type
 
