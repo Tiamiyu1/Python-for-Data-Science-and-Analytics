@@ -3,3 +3,6 @@ This is a repository for the python for  Science and Analytics class (Beginner t
 
 ## Outline
 
+- Python Fundamentals
+  -  Data type
+
