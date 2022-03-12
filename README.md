@@ -11,4 +11,5 @@ This is a repository for the python for  Science and Analytics class (Beginner t
   -  - 
 - Python for Data Analytics
   - Numpy   
+  - Pandas
 
