@@ -12,8 +12,11 @@ This is a repository for the python for  Science and Analytics class (Beginner t
      - float
      - string
      - bolean
-  -  
+  -  Data Collections (list, tuple, set and dictionary)
+  -  Functions
 - Python for Data Analytics
   - Numpy   
   - Pandas
+  - Data Visualization (pandas, Matplotlib, seaborn)
+- Projects
 
