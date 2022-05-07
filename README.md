@@ -22,8 +22,8 @@ This is a repository for the python for  Science and Analytics class (Beginner t
 - Projects
 - Career talk
 
-## Live recording for the classes is available upon request.
-[Recordings](mailto:tiamiyuabdulwasiu@gmail.com)
+## Live recording for the classes is available here.
+[Recordings](https://youtube.com/playlist?list=PLv7myXCDLoxLcowy57u0GSOAaxFbZtSfL)
 
 If you take the course on your own, you can submit your projects for review.
 
